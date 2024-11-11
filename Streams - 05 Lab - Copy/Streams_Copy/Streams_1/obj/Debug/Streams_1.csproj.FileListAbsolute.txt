@@ -1,0 +1,26 @@
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab\Streams_1\Streams_1\bin\Debug\Streams_1.exe.config
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab\Streams_1\Streams_1\bin\Debug\Streams_1.exe
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab\Streams_1\Streams_1\bin\Debug\Streams_1.pdb
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab\Streams_1\Streams_1\obj\Debug\Streams_1.csproj.AssemblyReference.cache
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab\Streams_1\Streams_1\obj\Debug\Streams_1.frmFileName.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab\Streams_1\Streams_1\obj\Debug\Streams_1.FrmLab1.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab\Streams_1\Streams_1\obj\Debug\Streams_1.Properties.Resources.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab\Streams_1\Streams_1\obj\Debug\Streams_1.csproj.GenerateResource.cache
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab\Streams_1\Streams_1\obj\Debug\Streams_1.csproj.CoreCompileInputs.cache
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab\Streams_1\Streams_1\obj\Debug\Streams_1.exe
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab\Streams_1\Streams_1\obj\Debug\Streams_1.pdb
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab\Streams_1\Streams_1\obj\Debug\Streams_1.frmRegistration.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab - Copy\Streams_Copy\Streams_1\bin\Debug\Streams_1.exe.config
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab - Copy\Streams_Copy\Streams_1\bin\Debug\Streams_1.exe
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab - Copy\Streams_Copy\Streams_1\bin\Debug\Streams_1.pdb
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab - Copy\Streams_Copy\Streams_1\obj\Debug\Streams_1.csproj.AssemblyReference.cache
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab - Copy\Streams_Copy\Streams_1\obj\Debug\Streams_1.frmFileName.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab - Copy\Streams_Copy\Streams_1\obj\Debug\Streams_1.FrmLab1.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab - Copy\Streams_Copy\Streams_1\obj\Debug\Streams_1.FrmOpenTextFile.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab - Copy\Streams_Copy\Streams_1\obj\Debug\Streams_1.frmRegistration.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab - Copy\Streams_Copy\Streams_1\obj\Debug\Streams_1.Properties.Resources.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab - Copy\Streams_Copy\Streams_1\obj\Debug\Streams_1.csproj.GenerateResource.cache
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab - Copy\Streams_Copy\Streams_1\obj\Debug\Streams_1.csproj.CoreCompileInputs.cache
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab - Copy\Streams_Copy\Streams_1\obj\Debug\Streams_1.exe
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab - Copy\Streams_Copy\Streams_1\obj\Debug\Streams_1.pdb
+C:\Users\Red\Desktop\Programming\C# Visual Studio\Streams - 05 Lab - Copy\Streams_Copy\Streams_1\obj\Debug\Streams_1.FrmStudentRecord.resources
